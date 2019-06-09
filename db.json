@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Jesse"
+    },
+    {
+      "id": 2,
+      "username": "<h1>Jesse</h1>"
+    },
+    {
+      "id": 3,
+      "username": "<script>alert()</script>"
+    }
+  ]
+}
