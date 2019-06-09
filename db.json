@@ -11,6 +11,10 @@
     {
       "id": 3,
       "username": "<script>alert()</script>"
+    },
+    {
+      "id": 4,
+      "username": "<img src=x onerror=alert()>"
     }
   ]
 }
