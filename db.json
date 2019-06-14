@@ -10,11 +10,11 @@
     },
     {
       "id": 3,
-      "username": "<script>alert()</script>"
+      "username": "<img src=x onerror=alert()>"
     },
     {
       "id": 4,
-      "username": "<img src=x onerror=alert()>"
+      "username": "javascript:alert()"
     }
   ]
 }
