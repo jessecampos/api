@@ -15,6 +15,12 @@
     {
       "id": 4,
       "username": "javascript:alert()"
+    },
+    {
+      "id": 5,
+      "username": "someone",
+      "email": "someone@example.com",
+      "phone_number": "555-555-5555"
     }
   ]
 }
